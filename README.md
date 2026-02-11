@@ -30,5 +30,5 @@ Computer Science & Statistics @ University of Chicago
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-## 📫 Contact Me @ dtang04@uchicago.edu
+### 📫 Contact Me @ dtang04@uchicago.edu
 
