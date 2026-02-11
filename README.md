@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Dylan Tang
+## Dylan Tang
 
 Computer Science & Statistics @ University of Chicago  
 ---
