@@ -30,7 +30,10 @@ Computer Science & Statistics @ University of Chicago
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### AI Tooling
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Claude SDK](https://img.shields.io/badge/Claude_SDK-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### 📫 Contact Me @ dtang04@uchicago.edu
 
