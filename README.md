@@ -27,6 +27,7 @@ Computer Science & Statistics @ University of Chicago
 ![Azure Blob Storage](https://img.shields.io/badge/Azure_Blob_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![ngrok](https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+![Caddyfile](https://img.shields.io/badge/Caddy-Caddyfile-000000?style=for-the-badge&logo=caddy&logoColor=white)
 
 ### ML & Data Parsing
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
