@@ -37,7 +37,7 @@ Computer Science & Statistics @ University of Chicago
 ### AI Tooling
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Claude SDK](https://img.shields.io/badge/Claude_SDK-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-black?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### 📫 Contact Me @ dtang04@uchicago.edu
