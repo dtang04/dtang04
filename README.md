@@ -15,7 +15,7 @@ Computer Science & Statistics @ University of Chicago
 
 ### Systems and DBs
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure ACI](https://img.shields.io/badge/Azure-ACI-0078D4?logo=microsoftazure&logoColor=white)
+![Azure ACI](https://img.shields.io/badge/Azure-ACI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
