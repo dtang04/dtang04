@@ -20,6 +20,7 @@ Computer Science & Statistics @ University of Chicago
 ![Azure ACI](https://img.shields.io/badge/Azure%20ACI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Blob Storage](https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Files](https://img.shields.io/badge/Azure%20Files-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Queue Storage](https://img.shields.io/badge/Azure%20Queue%20Storage-0078D4?style=for-the-badge)
 ![Caddyfile](https://img.shields.io/badge/Caddyfile-000000?style=for-the-badge&logo=caddy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
