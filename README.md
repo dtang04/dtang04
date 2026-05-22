@@ -44,4 +44,8 @@ Computer Science & Statistics @ University of Chicago
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-black?style=for-the-badge&logo=openai&logoColor=white)
 
+Currently working on
+* DoWhiz - An agentic employee platform
+* TerminalIM - A terminal-based IM service
+
 ### 📫 Contact Me @ dtang04@uchicago.edu
