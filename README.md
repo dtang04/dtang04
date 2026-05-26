@@ -49,4 +49,8 @@ Computer Science & Statistics @ University of Chicago
 * **DoWhiz** - An agentic employee platform
 * **TerminalIM** - A terminal-based IM service
 
+### Past Projects
+* **DeepTutor** - Zotero + LLM embedding pipeline
+* **Intelligence Cubed Personal Agents, Clawdbot Integration** - Agent Marketplace + GCE support for Clawdbot hosting
+
 ### 📫 Contact Me @ dtang04@uchicago.edu
