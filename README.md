@@ -54,7 +54,7 @@ Computer Science & Statistics @ University of Chicago
 * **Intelligence Cubed Personal Agents, Clawdbot Integration** - Agent Marketplace + GCE support for Clawdbot hosting
 
 ### Past Research
-* Sequestration of imaging studies in MIDRC: controlling for ingenuous and disingenuous use of sequestered data [View paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/134090Y/Sequestration-of-imaging-studies-in-MIDRC--controlling-for-ingenuous/10.1117/12.3047230.short)
-* Sequestration of imaging studies in MIDRC: using load factor to minimize algorithm performance overestimation and image reuse [View paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/129290G/Sequestration-of-imaging-studies-in-MIDRC--using-load-factor/10.1117/12.3008264.full)
+* [View paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/134090Y/Sequestration-of-imaging-studies-in-MIDRC--controlling-for-ingenuous/10.1117/12.3047230.short) Sequestration of imaging studies in MIDRC: controlling for ingenuous and disingenuous use of sequestered data
+* [View paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/129290G/Sequestration-of-imaging-studies-in-MIDRC--using-load-factor/10.1117/12.3008264.full) Sequestration of imaging studies in MIDRC: using load factor to minimize algorithm performance overestimation and image reuse
 
 ### 📫 Contact Me @ dtang04@uchicago.edu
