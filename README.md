@@ -46,35 +46,20 @@ Computer Science & Statistics @ University of Chicago
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-black?style=for-the-badge&logo=openai&logoColor=white)
 
----
+### Currently working on
+* **DoWhiz** — Agentic employee platform for automating knowledge work across tools and workflows
+* **TerminalIM** — Terminal-based instant messaging service
 
-## Current Work
+### Past Projects
+* **DeepTutor** — Zotero + LLM embedding pipeline with interactive paper-based code execution using Claude SDK
+* **Intelligence Cubed Personal Agents / Clawdbot Integration** — Agent marketplace with GCE support for hosted Clawdbot agents
 
-| Project | Description |
-|---|---|
-| **DoWhiz** | Agentic employee platform for automating knowledge work across tools and workflows |
-| **TerminalIM** | Terminal-based instant messaging service |
+### Past Research
+* **Sequestration of imaging studies in MIDRC: controlling for ingenuous and disingenuous use of sequestered data**  
+  [View paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/134090Y/Sequestration-of-imaging-studies-in-MIDRC--controlling-for-ingenuous/10.1117/12.3047230.short)
 
----
+* **Sequestration of imaging studies in MIDRC: using load factor to minimize algorithm performance overestimation and image reuse**  
+  [View paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/129290G/Sequestration-of-imaging-studies-in-MIDRC--using-load-factor/10.1117/12.3008264.full)
 
-## Past Projects
-
-| Project | Description |
-|---|---|
-| **DeepTutor** | Zotero + LLM embedding pipeline with interactive paper-based code execution using Claude SDK |
-| **Intelligence Cubed Personal Agents / Clawdbot Integration** | Agent marketplace with GCE support for hosted Clawdbot agents |
-
----
-
-## Past Research
-
-| Paper | Venue |
-|---|---|
-| [**Sequestration of imaging studies in MIDRC: controlling for ingenuous and disingenuous use of sequestered data**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13409/134090Y/Sequestration-of-imaging-studies-in-MIDRC--controlling-for-ingenuous/10.1117/12.3047230.short) | SPIE Medical Imaging 2025 |
-| [**Sequestration of imaging studies in MIDRC: using load factor to minimize algorithm performance overestimation and image reuse**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/129290G/Sequestration-of-imaging-studies-in-MIDRC--using-load-factor/10.1117/12.3008264.full) | SPIE Medical Imaging 2024 |
-
----
-
-## Contact
-
-📫 **Email:** [dtang04@uchicago.edu](mailto:dtang04@uchicago.edu)
+### 📫 Contact
+* [dtang04@uchicago.edu](mailto:dtang04@uchicago.edu)
