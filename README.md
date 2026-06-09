@@ -1,6 +1,6 @@
 ## Dylan Tang
 
-Computer Science & Statistics @ University of Chicago  
+Computer Science & Statistics @ University of Chicago, Currently @ PatientPoint
 
 ---
 
