@@ -46,13 +46,11 @@ Computer Science & Statistics @ University of Chicago, Currently @ PatientPoint
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-black?style=for-the-badge&logo=openai&logoColor=white)
 
-### Currently working on
-* **DoWhiz** — Agentic employee platform for automating knowledge work across tools and workflows
-* **TerminalIM** — Terminal-based instant messaging service
-
 ### Past Projects
 * **DeepTutor** — Zotero + LLM embedding pipeline with interactive paper-based code execution using Claude SDK
 * **Intelligence Cubed Personal Agents / Clawdbot Integration** — Agent marketplace with GCE support for hosted Clawdbot agents
+* **DoWhiz** — Agentic employee platform for automating knowledge work across tools and workflows
+* **TerminalIM** — Terminal-based instant messaging service
 
 ### Past Research
 * **Sequestration of imaging studies in MIDRC: controlling for ingenuous and disingenuous use of sequestered data**  
